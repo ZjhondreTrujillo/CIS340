@@ -12,7 +12,7 @@ export default function MyApp() {
 </View>
   );
 }
-export default function MultiComp(){
+function MultiComp(){
   return(
   <View style= {{
     flex: 1,
